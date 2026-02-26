@@ -1,0 +1,91 @@
+<h1 align="center">Hey there, I'm Pragnesh 👋</h1>
+
+<p align="center">
+  <em>AI/ML Enthusiast • Python Developer • SwiftUI Explorer</em>
+</p>
+
+<p align="center">
+  <a href="https://in.linkedin.com/in/yedrunagapragnesh">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Pragnesh-10">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🧠 About Me
+
+- 🔭 Currently building **SkillGPS** — a tool to help people navigate their career skills
+- 🌱 Deep-diving into **Generative AI**, **Data Science**, and **Machine Learning**
+- 📱 Exploring **SwiftUI** for mobile experiences (check out Virtual Try-On!)
+- 🐍 Love working with **Python** for data analysis and problem solving
+- ⚡ Enjoy **vibe coding** — building real products with the help of AI tools
+- 🤝 Open to collaborating on AI/ML and Data Science projects
+- 📫 Reach me on [LinkedIn](https://in.linkedin.com/in/yedrunagapragnesh)
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+
+**Data Science & Visualization**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [🧭 SkillGPS](https://github.com/Pragnesh-10/SkillGPS) | Career skill mapping and navigation tool — built with vibe coding | JavaScript |
+| [👗 Virtual Try-On](https://github.com/Pragnesh-10/Virtual-try-on) | Virtual clothing try-on app — built with vibe coding | Swift / SwiftUI |
+| [🐍 Python Projects](https://github.com/Pragnesh-10/basic-projects-in-Python-) | Collection of Python projects using NumPy, Pandas & Matplotlib | Python |
+| [🧪 Logic](https://github.com/Pragnesh-10/Logic) | Programming logic and problem-solving in Python | Python |
+
+---
+
+### 📚 Currently Learning
+
+- 🤖 Generative AI & LLMs (following [Microsoft's GenAI course](https://github.com/Pragnesh-10/generative-ai-for-beginners))
+- 📊 Data Science fundamentals (via [Microsoft's DS course](https://github.com/Pragnesh-10/Data-Science-For-Beginners))
+- 📱 Advanced SwiftUI & Core ML for on-device AI
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pragnesh-10&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragnesh-10&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pragnesh-10&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pragnesh-10&color=blueviolet&style=flat-square" />
+</p>
+
+<p align="center">
+  <em>"The best way to predict the future is to build it." 🚀</em>
+</p>
