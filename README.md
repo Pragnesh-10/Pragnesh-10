@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Pragnesh 👋</h1>
 
 <p align="center">
-  <em>AI/ML Enthusiast • Python Developer • SwiftUI Explorer</em>
+  <em>AI/ML & Data Science Enthusiast • SwiftUI Explorer</em>
 </p>
 
 <p align="center">
@@ -70,11 +70,6 @@
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pragnesh-10&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragnesh-10&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pragnesh-10&theme=tokyonight&hide_border=true" />
