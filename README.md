@@ -57,6 +57,7 @@
 | [🧭 SkillGPS](https://github.com/Pragnesh-10/SkillGPS) | Career skill mapping and navigation tool — built with vibe coding | JavaScript |
 | [👗 Virtual Try-On](https://github.com/Pragnesh-10/Virtual-try-on) | Virtual clothing try-on app — built with vibe coding | Swift / SwiftUI |
 | [🐍 Python Projects](https://github.com/Pragnesh-10/basic-projects-in-Python-) | Collection of Python projects using NumPy, Pandas & Matplotlib | Python |
+| [analyzing_student_performance](https://github.com/Pragnesh-10/analyzing_student_performance) | Analyzed student academic data using Python (Pandas & Matplotlib) to uncover subject-wise trends, attendance impacts, and performance gaps through EDA and visualization. | Python|
 | [🧪 Logic](https://github.com/Pragnesh-10/Logic) | Programming logic and problem-solving in Python | Python |
 
 ---
