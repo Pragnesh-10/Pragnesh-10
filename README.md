@@ -16,12 +16,9 @@
 ---
 
 ### 🧠 About Me
-
-- 🔭 Currently building **SkillGPS** — a tool to help people navigate their career skills
 - 🌱 Deep-diving into **Generative AI**, **Data Science**, and **Machine Learning**
 - 📱 Exploring **SwiftUI** for mobile experiences (check out Virtual Try-On!)
 - 🐍 Love working with **Python** for data analysis and problem solving
-- ⚡ Enjoy **vibe coding** — building real products with the help of AI tools
 - 🤝 Open to collaborating on AI/ML and Data Science projects
 - 📫 Reach me on [LinkedIn](https://in.linkedin.com/in/yedrunagapragnesh)
 
