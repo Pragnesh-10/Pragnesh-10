@@ -11,7 +11,7 @@
   <a href="https://github.com/Pragnesh-10">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://ynpragnesh.pages.app/">
+  <a href="https://ynpragnesh.pages.dev">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
