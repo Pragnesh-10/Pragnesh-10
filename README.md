@@ -79,8 +79,6 @@
   <img src="https://komarev.com/ghpvc/?username=Pragnesh-10&color=blueviolet&style=flat-square" />
 </p>
 
----
-[![Pragnesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pragnesh-10&theme=dracula)](https://github.com/Pragnesh-10/github-readme-activity-graph)
 <p align="center">
   <em>"The best way to predict the future is to build it." 🚀</em>
 </p>
