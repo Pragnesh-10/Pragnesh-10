@@ -50,15 +50,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [🧭 SkillGPS](https://github.com/Pragnesh-10/SkillGPS) | Career skill mapping and navigation tool — built with vibe coding | JavaScript |
-| [🐍 Python Projects](https://github.com/Pragnesh-10/basic-projects-in-Python-) | Collection of some basic Python projects  | Python |
-| [🧑‍💻👩‍💻 Analyzing_student_performance](https://github.com/Pragnesh-10/analyzing_student_performance) | Analyzed student academic data using Python (Pandas & Matplotlib) to uncover subject-wise trends, attendance impacts, and performance gaps through EDA and visualization. | Python|
----
-
 ### 📚 Currently Learning
 
 - 🤖 Generative AI & LLMs (following [Microsoft's GenAI course](https://github.com/Pragnesh-10/generative-ai-for-beginners))
