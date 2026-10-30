@@ -72,7 +72,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pragnesh-10&theme=tokyonight&hide_border=true" />
 </p>
-### 🚀 GitHub Space Shooter
 
 <p align="center">
   <img src="game.gif" alt="Pragnesh's GitHub contribution Space Shooter game" width="800" />
